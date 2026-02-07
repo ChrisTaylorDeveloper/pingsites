@@ -9,3 +9,7 @@ Create input.csv from the sample, then run
 ```shell
 ./pingsites.sh < input.csv
 ```
+
+## Notes
+
+1. See  <https://christaylordeveloper.co.uk/articles/app-deployments/>
